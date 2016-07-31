@@ -23,6 +23,8 @@ html {
         color: #FFFFFF;
         font-family: Helvetica;
         text-align: center;
+        border: 10px solid red;
+        background-color: Blue;
     }
 
     nav {
@@ -48,12 +50,15 @@ html {
         font-size: 20;
         color: #E82C0C; 
         text-align: center;
+        background-color: Blue;
     }
     
     p {
+        border: 5px background-color:blue; 
         font-family: Helvetica;
         font-size: 20;
         font-color: #E82C0C;
+        background-color: Yellow;
 
     }
 
