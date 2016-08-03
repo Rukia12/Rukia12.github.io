@@ -39,26 +39,28 @@ html {
     }
 
     h2 {
-        color: Blue;
-        font-size: 30;
+        color: #FFFFFF;
+        font-size: 40;
         font-family: Helvetica;
+        background-color: Blue;
+        text-align: center;
 
     }
 
     ul li { 
         font-family: Helvetica;
         font-size: 20;
-        color: #E82C0C; 
-        text-align: center;
-        background-color: Blue;
+        color: #FFFFFF; 
+        text-align: left;
+        background-color: Red;
     }
     
     p {
-        border: 5px background-color:blue; 
+        border: 10px;  
         font-family: Helvetica;
-        font-size: 20;
-        font-color: #E82C0C;
-        background-color: Yellow;
+        font-size: 30;
+        font-color: #FFFFFF;
+        background-color: Blue;
 
     }
 
@@ -81,13 +83,18 @@ html {
     aside ul {
         list-style-type: none;
     }
-    footer {
+
+    footer p{
         width: 790px;
-        background-color: Yellow;
+        background-color: Blue;
         text-align: center;
-        padding:5px;
+        padding:10px;
         display: block;
-        font-size: 40;
+        font-size: 20;
         font-family: Helvetica;
-        font-color: White;
+        color: #FFFFFF;
     }
+
+    
+
+    
